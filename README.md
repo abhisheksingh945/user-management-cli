@@ -2,7 +2,7 @@
 simple user management command line tool made using python fire module and postgresql
 you can add, remove, list, and update users in the database 
 
-to use this -
+to use this -<br>
 1 - download the cliTest.py script<br>
 2 - pip install fire <br>
 3 - pip install psycogp2<br>
